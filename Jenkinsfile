@@ -2,5 +2,6 @@
 
 env.COMPONENT="payment"
 env.APP_TYPE="python"
+env.TAG_NAME
 
 maven()
